@@ -1,5 +1,3 @@
-# Stock-Market-Portfolio-frontend
-
 # Stock Market Portfolio Frontend
 
 This is the frontend for my stock market portfolio dashboard.  
