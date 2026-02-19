@@ -93,5 +93,3 @@ If you want:
 - **Shorter version**
 - **Remove phone number**
 - **More professional tone**
-
-Just tell me 👍
