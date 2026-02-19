@@ -84,7 +84,7 @@ Built for Octa Byte AI case study.
 ---
 
 This version:
-- Renders **perfectly on GitHub**
+- Renders ##**perfectly on GitHub**##
 - Looks **professional but human**
 - No broken markdown
 - No extra noise
